@@ -1,6 +1,18 @@
-<!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F3864,2E75B6&height=200&section=header&text=Nontawat%20Chattong&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Joe%20%7C%20Data%20%26%20HR%20Tech%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
-
+<p align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1F3864"/>
+      <stop offset="100%" style="stop-color:#2E75B6"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" fill="url(#bg)" rx="0"/>
+  <path d="M0,130 C150,100 300,160 450,130 C600,100 750,155 900,125 L900,180 L0,180 Z" fill="rgba(255,255,255,0.07)"/>
+  <path d="M0,150 C200,120 400,165 600,140 C750,120 850,155 900,145 L900,180 L0,180 Z" fill="rgba(255,255,255,0.05)"/>
+  <text x="450" y="90" font-family="Arial, sans-serif" font-size="46" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="2">NONTAWAT CHATTONG</text>
+  <text x="450" y="128" font-family="Arial, sans-serif" font-size="17" fill="rgba(255,255,255,0.85)" text-anchor="middle" letter-spacing="1">Joe  ·  Data &amp; HR Tech  ·  Builder</text>
+</svg>
+</p>
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+Data+Pipeline;AI+Integration+%26+LLM+Tooling;HR+Tech+%26+Process+Automation;Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
