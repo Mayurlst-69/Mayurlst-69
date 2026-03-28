@@ -105,12 +105,12 @@ Personal learning project: ingested raw E-commerce data from CSV files, modeled 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mayurlst-69&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E75B6&icon_color=2E75B6&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurlst-69&layout=compact&theme=tokyonight&hide_border=true&title_color=2E75B6&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://img.shields.io/github/followers/Mayurlst-69?label=Followers&style=for-the-badge&color=2E75B6&labelColor=1F3864&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/Mayurlst-69?label=Total%20Stars&style=for-the-badge&color=2E75B6&labelColor=1F3864&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Public%20Repos-3-2E75B6?style=for-the-badge&labelColor=1F3864&logo=github&logoColor=white" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayurlst-69&theme=tokyonight&hide_border=true&stroke=2E75B6&ring=1F3864&fire=2E75B6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2E75B6&sideLabels=2E75B6&dates=888888&background=0d1117" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mayurlst-69&theme=tokyonight&no-frame=true&row=1&column=5&margin-w=8" />
 </p>
 
 ---
