@@ -10,7 +10,7 @@
   <path d="M0,130 C150,100 300,160 450,130 C600,100 750,155 900,125 L900,180 L0,180 Z" fill="rgba(255,255,255,0.07)"/>
   <path d="M0,150 C200,120 400,165 600,140 C750,120 850,155 900,145 L900,180 L0,180 Z" fill="rgba(255,255,255,0.05)"/>
   <text x="450" y="90" font-family="Arial, sans-serif" font-size="46" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="2">NONTAWAT CHATTONG</text>
-  <text x="450" y="128" font-family="Arial, sans-serif" font-size="17" fill="rgba(255,255,255,0.85)" text-anchor="middle" letter-spacing="1">Joe  ·  Data &amp; HR Tech  ·  Builder</text>
+  <text x="450" y="128" font-family="Arial, sans-serif" font-size="17" fill="rgba(255,255,255,0.85)" text-anchor="middle" letter-spacing="1">(JOE)  ·  Data &amp; HR Tech  ·  Builder</text>
 </svg>
 </p>
 <!-- Typing animation -->
