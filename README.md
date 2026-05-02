@@ -22,14 +22,12 @@
 
 ## 👋 About Me
 
-> *Business student who builds things. Currently bridging, turning manual workflows into automated systems.*
+> *Love to builds things. Currently bridging, turning manual workflows into automated systems.*
 
-- 🏢 **Co-op Intern** — Center of Excellence & HR Business Partner *(1 YEAR)*
-- 🔧 Built production tools used by real teams: **AI resume parsers**, **HR web portals**
-- 📊 Learning: **dbt · end-to-end data pipelines · dashboard & BI**
-- 🤖 Interested in: **Data Engineering · HR Tech · LLM Applications · Backend**
-- 🎬 YouTube: **Mayurlst** — gaming channel *(Inactive)*
-- 📬 Reach me at: **Nontawat.chattong@gmail.com**
+- **HR Consultant** — Center of Excellence & HR Business Partner *Active*
+- Built production tools used by real teams 
+- YouTube: **Mayurlst** — gaming channel *(Inactive)*
+- Reach me at: **Nontawat.chattong@gmail.com**
 
 ---
 
