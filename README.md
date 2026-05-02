@@ -1,109 +1,152 @@
 <p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1F3864"/>
-      <stop offset="100%" style="stop-color:#2E75B6"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="60%" style="stop-color:#1a2e4a"/>
+      <stop offset="100%" style="stop-color:#1e3a5f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb"/>
+      <stop offset="100%" style="stop-color:#60a5fa"/>
     </linearGradient>
   </defs>
-  <rect width="900" height="180" fill="url(#bg)" rx="0"/>
-  <path d="M0,130 C150,100 300,160 450,130 C600,100 750,155 900,125 L900,180 L0,180 Z" fill="rgba(255,255,255,0.07)"/>
-  <path d="M0,150 C200,120 400,165 600,140 C750,120 850,155 900,145 L900,180 L0,180 Z" fill="rgba(255,255,255,0.05)"/>
-  <text x="450" y="90" font-family="Arial, sans-serif" font-size="46" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="2">NONTAWAT CHATTONG</text>
-  <text x="450" y="128" font-family="Arial, sans-serif" font-size="17" fill="rgba(255,255,255,0.85)" text-anchor="middle" letter-spacing="1">(JOE)  ·  Data &amp; HR Tech  ·  Consultant</text>
+  <rect width="900" height="200" fill="url(#bg)" rx="0"/>
+  <!-- Grid lines subtle -->
+  <line x1="0" y1="50" x2="900" y2="50" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+  <line x1="0" y1="100" x2="900" y2="100" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+  <line x1="0" y1="150" x2="900" y2="150" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+  <line x1="225" y1="0" x2="225" y2="200" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+  <line x1="450" y1="0" x2="450" y2="200" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+  <line x1="675" y1="0" x2="675" y2="200" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+  <!-- Accent bar -->
+  <rect x="0" y="0" width="4" height="200" fill="url(#accent)"/>
+  <!-- Name -->
+  <text x="450" y="90" font-family="'Trebuchet MS', Arial, sans-serif" font-size="44" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="3">NONTAWAT CHATTONG</text>
+  <!-- Nick name tag -->
+  <rect x="360" y="103" width="182" height="24" rx="12" fill="rgba(37,99,235,0.25)"/>
+  <text x="451" y="120" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa" text-anchor="middle" letter-spacing="1">JOE  ·  Available for Work</text>
+  <!-- Sub title -->
+  <text x="450" y="160" font-family="'Trebuchet MS', Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.65)" text-anchor="middle" letter-spacing="1.5">HR TECH  ·  AI INTEGRATION  ·  FULL-STACK</text>
+  <!-- Status dot -->
+  <circle cx="340" cy="156" r="4" fill="#22c55e"/>
+  <circle cx="340" cy="156" r="7" fill="none" stroke="#22c55e" stroke-width="1" opacity="0.4"/>
 </svg>
 </p>
-<!-- Typing animation -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+Data+Pipeline;AI+Integration+%26+Agentic+coding+tools;HR+Tech+%26+Process+Automation;Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=640&lines=TypeScript+%7C+Python+%7C+Next.js+%7C+PostgreSQL;Agentic+Coding+with+Claude+Code+%26+MCP;LLM+Integration+%26+AI+Workflow+Automation;Shipping+production+HR+tech+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-> *Love to builds things. Currently bridging, turning manual workflows into automated systems.*
+> *I build things that replace manual work — AI-powered tools, full-stack platforms, and automated pipelines deployed for real teams inside real organisations.*
 
-- **HR Consultant** — Center of Excellence & HR Business Partner *Active*
-- Built production tools used by real teams 
-- YouTube: **Mayurlst** — gaming channel *(Inactive)*
-- Reach me at: **Nontawat.chattong@gmail.com**
+- **HR Consultant — AI Integration** · Large Thai Corporate · *3-Month Contract · Active*
+- **HR Tech Developer (Co-op)** · Ananda Development PCL · *2025–2026 · 12 months*
+- Builds production HR platforms using **agentic coding workflows** (Claude Code · MCP orchestration)
+- Integrates LLMs into real operational workflows — not just demos
+- **Nontawat.chattong@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1F3864?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2E75B6?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript_(learning)-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**AI / Data**
+**AI / Agentic Tooling**
 
-![LLM](https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Orchestration-0f172a?style=for-the-badge&logo=anthropic&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0ea5e9?style=for-the-badge&logo=semanticweb&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+**Backend & Data**
+
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_7-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-**Frameworks & Platforms**
+**DevOps & Tools**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright_MCP-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Low-Code / Enterprise**
+
+![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
+
+### HR Intelligence Platform *(Production — Internal)*
+> **Next.js 16 App Router · TypeScript · Prisma 7 · PostgreSQL/Supabase · Fastify · shadcn/ui · Tailwind v4 · Recharts · Playwright MCP · GitHub Actions**
+
+Full-stack competency assessment and talent intelligence platform. Multi-role workflow (Admin / Manager / Employee), weighted scoring engine across Core + Leadership + Functional competency axes, calibration board, and gap analysis visualisation per employee band. Entire development lifecycle managed with **Claude Code agentic coding** — custom sub-agents for database architecture, full-stack engineering, and automated QA via Playwright MCP.
+
+---
 
 ### [Resume Parser — AI Automation](https://github.com/Mayurlst-69/Resume-parser)
-> **Python · LLM API · NLP · Automation · Regex**  
-Automated resume screening tool powered by LLM integration. Extracts structured candidate data from raw CVs — built to solve a real pain point in our recruitment workflow.
+> **Python · LLM API · NLP · Automation · Regex**
+
+Automated CV screening tool powered by LLM API integration. Extracts structured candidate data from raw PDFs and plain-text resumes. Built to solve a live recruitment pain point — deployed and used by the HR team.
 
 ---
 
 ### [RAG with Open-Source Embeddings](https://github.com/Mayurlst-69/RAG-Open-Source-Embeddings)
-> **Python · LangChain · Vector DB · Jupyter Notebook**  
-End-to-end Retrieval-Augmented Generation pipeline using open-source embedding models. Explores semantic search and document Q&A.
+> **Python · LangChain · Vector DB · Jupyter Notebook · Open-Source Embedding Models**
+
+End-to-end Retrieval-Augmented Generation pipeline using open-source embedding models. Explores chunking strategies, semantic search quality, and domain-specific document Q&A.
 
 ---
 
-### [Mayurlst Smart OCR](https://github.com/Mayurlst-69/Mayurlst-Smart-OCR)
-> **Python · Computer Vision · OCR**  
-Intelligent OCR app that extracts and structures text from scanned documents and images with preprocessing to handle real-world noise. (learning project)
+### [Smart OCR Pipeline](https://github.com/Mayurlst-69/Mayurlst-Smart-OCR)
+> **Python · Computer Vision · OCR · PDF Processing**
+
+Intelligent document processing app that extracts and structures text from scanned images and PDFs — with preprocessing steps to handle real-world noise and low-quality inputs.
 
 ---
 
 ### Ananda HR Portal *(Private — Production)*
-> **React · Node.js · Vercel · Render · Security & Auth**  
-Full end-to-end intern onboarding portal: application forms, digital consent, role-based access, deployed to production.  
+> **React · Node.js · Vercel · Render · Auth & RBAC**
+
+End-to-end intern onboarding portal: application forms, digital consent management, role-based access control. Deployed to production.
 🔗 [ananda-hr-portal.vercel.app](https://ananda-hr-portal.vercel.app/)
 
 ---
 
-### PowerApps Executive Approval Workflow *(Internal)*
-> **Microsoft PowerApps · Power Automate**  
-Paperless approval routing app for executive & director signatures — eliminated manual paper-based processes across the People & Organization function.
-
----
-
 ### Data Pipeline (End-to-End)
-> **CSV · dbt · SQL · Streamlit**  
-Personal learning project: ingested raw E-commerce data from CSV files, modeled and transformed it using dbt, and visualized key insight metrics on an analytics dashboard with Streamlit.
+> **Python · dbt · SQL · Streamlit**
+
+Full analytics pipeline: raw CSV ingestion → dbt-modelled staging and mart layers → Streamlit dashboard for KPI visualisation.
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mayurlst-69&theme=tokyonight&hide_border=true&stroke=2E75B6&ring=1F3864&fire=2E75B6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2E75B6&sideLabels=2E75B6&dates=888888&background=0d1117" />
+  <img src="https://streak-stats.demolab.com/?user=Mayurlst-69&theme=tokyonight&hide_border=true&stroke=2563eb&ring=1a2e4a&fire=2563eb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2563eb&sideLabels=2563eb&dates=888888&background=0d1117" />
 </p>
 
 ---
@@ -115,9 +158,8 @@ Personal learning project: ingested raw E-commerce data from CSV files, modeled 
     <img src="https://img.shields.io/badge/Email-1F3864?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Mayurlst-69">
-    <img src="https://img.shields.io/badge/GitHub-2E75B6?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E75B6,1F3864&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563eb,0f172a&height=120&section=footer&animation=fadeIn" />
