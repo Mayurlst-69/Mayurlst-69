@@ -44,10 +44,10 @@
 
 > *I build things that replace manual work — AI-powered tools, full-stack platforms, and automated pipelines deployed for real teams inside real organisations.*
 
-- **HR Consultant — AI Integration** · Large Thai Corporate · *3-Month Contract · Active*
+- **HR Consultant — AI Integration** · Active*
 - **HR Tech Developer (Co-op)** · Ananda Development PCL · *2025–2026 · 12 months*
 - Builds production HR platforms using **agentic coding workflows** (Claude Code · MCP orchestration)
-- Integrates LLMs into real operational workflows — not just demos
+- Integrates Agentic Ai into real operational workflows 
 - **Nontawat.chattong@gmail.com**
 
 ---
@@ -82,6 +82,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 **DevOps & Tools**
 
@@ -103,7 +105,7 @@
 ### HR Intelligence Platform *(Production — Internal)*
 > **Next.js 16 App Router · TypeScript · Prisma 7 · PostgreSQL/Supabase · Fastify · shadcn/ui · Tailwind v4 · Recharts · Playwright MCP · GitHub Actions**
 
-Full-stack competency assessment and talent intelligence platform. Multi-role workflow (Admin / Manager / Employee), weighted scoring engine across Core + Leadership + Functional competency axes, calibration board, and gap analysis visualisation per employee band. Entire development lifecycle managed with **Claude Code agentic coding** — custom sub-agents for database architecture, full-stack engineering, and automated QA via Playwright MCP.
+Full-stack competency assessment and talent intelligence platform. RBAC workflow, weighted scoring engine across competency axes, calibration board, and gap analysis visualisation per employee Level. Entire development lifecycle managed with **Claude Code agentic coding** — custom sub-agents for database architecture, full-stack engineering, and automated QA via Playwright MCP with unit&Integate test.
 
 ---
 
