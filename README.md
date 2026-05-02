@@ -10,12 +10,12 @@
   <path d="M0,130 C150,100 300,160 450,130 C600,100 750,155 900,125 L900,180 L0,180 Z" fill="rgba(255,255,255,0.07)"/>
   <path d="M0,150 C200,120 400,165 600,140 C750,120 850,155 900,145 L900,180 L0,180 Z" fill="rgba(255,255,255,0.05)"/>
   <text x="450" y="90" font-family="Arial, sans-serif" font-size="46" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="2">NONTAWAT CHATTONG</text>
-  <text x="450" y="128" font-family="Arial, sans-serif" font-size="17" fill="rgba(255,255,255,0.85)" text-anchor="middle" letter-spacing="1">(JOE)  ·  Data &amp; HR Tech  ·  Builder</text>
+  <text x="450" y="128" font-family="Arial, sans-serif" font-size="17" fill="rgba(255,255,255,0.85)" text-anchor="middle" letter-spacing="1">(JOE)  ·  Data &amp; HR Tech  ·  Consultant</text>
 </svg>
 </p>
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+Data+Pipeline;AI+Integration+%26+LLM+Tooling;HR+Tech+%26+Process+Automation;Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+Data+Pipeline;AI+Integration+%26+Agentic+coding+tools;HR+Tech+%26+Process+Automation;Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -63,44 +63,44 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [Resume Parser — AI Automation](https://github.com/Mayurlst-69/Resume-parser)
+### [Resume Parser — AI Automation](https://github.com/Mayurlst-69/Resume-parser)
 > **Python · LLM API · NLP · Automation · Regex**  
 Automated resume screening tool powered by LLM integration. Extracts structured candidate data from raw CVs — built to solve a real pain point in our recruitment workflow.
 
 ---
 
-### 🧠 [RAG with Open-Source Embeddings](https://github.com/Mayurlst-69/RAG-Open-Source-Embeddings)
+### [RAG with Open-Source Embeddings](https://github.com/Mayurlst-69/RAG-Open-Source-Embeddings)
 > **Python · LangChain · Vector DB · Jupyter Notebook**  
 End-to-end Retrieval-Augmented Generation pipeline using open-source embedding models. Explores semantic search and document Q&A.
 
 ---
 
-### 👁️ [Mayurlst Smart OCR](https://github.com/Mayurlst-69/Mayurlst-Smart-OCR)
+### [Mayurlst Smart OCR](https://github.com/Mayurlst-69/Mayurlst-Smart-OCR)
 > **Python · Computer Vision · OCR**  
 Intelligent OCR app that extracts and structures text from scanned documents and images with preprocessing to handle real-world noise. (learning project)
 
 ---
 
-### 🌐 Ananda HR Portal *(Private — Production)*
+### Ananda HR Portal *(Private — Production)*
 > **React · Node.js · Vercel · Render · Security & Auth**  
 Full end-to-end intern onboarding portal: application forms, digital consent, role-based access, deployed to production.  
 🔗 [ananda-hr-portal.vercel.app](https://ananda-hr-portal.vercel.app/)
 
 ---
 
-### ⚡ PowerApps Executive Approval Workflow *(Internal)*
+### PowerApps Executive Approval Workflow *(Internal)*
 > **Microsoft PowerApps · Power Automate**  
 Paperless approval routing app for executive & director signatures — eliminated manual paper-based processes across the People & Organization function.
 
 ---
 
-### 📊 Data Pipeline (End-to-End)
+### Data Pipeline (End-to-End)
 > **CSV · dbt · SQL · Streamlit**  
 Personal learning project: ingested raw E-commerce data from CSV files, modeled and transformed it using dbt, and visualized key insight metrics on an analytics dashboard with Streamlit.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Mayurlst-69&theme=tokyonight&hide_border=true&stroke=2E75B6&ring=1F3864&fire=2E75B6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2E75B6&sideLabels=2E75B6&dates=888888&background=0d1117" />
@@ -108,7 +108,7 @@ Personal learning project: ingested raw E-commerce data from CSV files, modeled 
 
 ---
 
-## 📫 Connect
+## Connect
 
 <p align="left">
   <a href="mailto:Nontawat.chattong@gmail.com">
