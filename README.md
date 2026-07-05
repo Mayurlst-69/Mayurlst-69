@@ -25,9 +25,9 @@
   <text x="450" y="90" font-family="'Trebuchet MS', Arial, sans-serif" font-size="44" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="3">NONTAWAT CHATTONG</text>
   <!-- Nick name tag -->
   <rect x="360" y="103" width="182" height="24" rx="12" fill="rgba(37,99,235,0.25)"/>
-  <text x="451" y="120" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa" text-anchor="middle" letter-spacing="1">JOE  ·  Available for Work</text>
+  <text x="451" y="120" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa" text-anchor="middle" letter-spacing="1">(Joe) </text>
   <!-- Sub title -->
-  <text x="450" y="160" font-family="'Trebuchet MS', Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.65)" text-anchor="middle" letter-spacing="1.5">HR TECH  ·  AI INTEGRATION  ·  FULL-STACK</text>
+  <text x="450" y="160" font-family="'Trebuchet MS', Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.65)" text-anchor="middle" letter-spacing="1.5">Consultant  ·  AI INTEGRATION  ·  FULL-STACK</text>
   <!-- Status dot -->
   <circle cx="340" cy="156" r="4" fill="#22c55e"/>
   <circle cx="340" cy="156" r="7" fill="none" stroke="#22c55e" stroke-width="1" opacity="0.4"/>
