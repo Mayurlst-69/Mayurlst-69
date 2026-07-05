@@ -35,18 +35,19 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=640&lines=TypeScript+%7C+Python+%7C+Next.js+%7C+PostgreSQL;Agentic+Coding+with+Claude+Code+%26+MCP;LLM+Integration+%26+AI+Workflow+Automation;Shipping+production+HR+tech+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=640&lines=Software+%7C+Workflow+%7C+Automation;AI+Integration+" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-> *I build things that replace manual work — AI-powered tools, full-stack platforms, and automated pipelines deployed for real teams inside real organisations.*
+> *fail fast learn fast*
 
 - **HR Consultant — AI Integration** · Active*
 - **HR Tech Developer (Co-op)** · Ananda Development PCL · *2025–2026 · 12 months*
-- Builds production HR platforms using **agentic coding workflows** (Claude Code · MCP orchestration)
+- Builds production Learning Assessments platforms
+- Design and Build a Competitor Data Tracking Platform
 - Integrates Agentic Ai into real operational workflows 
 - **Nontawat.chattong@gmail.com**
 
@@ -116,32 +117,11 @@ Automated CV screening tool powered by LLM API integration. Extracts structured 
 
 ---
 
-### [RAG with Open-Source Embeddings](https://github.com/Mayurlst-69/RAG-Open-Source-Embeddings)
-> **Python · LangChain · Vector DB · Jupyter Notebook · Open-Source Embedding Models**
-
-End-to-end Retrieval-Augmented Generation pipeline using open-source embedding models. Explores chunking strategies, semantic search quality, and domain-specific document Q&A.
-
----
-
-### [Smart OCR Pipeline](https://github.com/Mayurlst-69/Mayurlst-Smart-OCR)
-> **Python · Computer Vision · OCR · PDF Processing**
-
-Intelligent document processing app that extracts and structures text from scanned images and PDFs — with preprocessing steps to handle real-world noise and low-quality inputs.
-
----
 
 ### Ananda HR Portal *(Private — Production)*
 > **React · Node.js · Vercel · Render · Auth & RBAC**
 
 End-to-end intern onboarding portal: application forms, digital consent management, role-based access control. Deployed to production.
-🔗 [ananda-hr-portal.vercel.app](https://ananda-hr-portal.vercel.app/)
-
----
-
-### Data Pipeline (End-to-End)
-> **Python · dbt · SQL · Streamlit**
-
-Full analytics pipeline: raw CSV ingestion → dbt-modelled staging and mart layers → Streamlit dashboard for KPI visualisation.
 
 ---
 
