@@ -45,7 +45,7 @@
 > *fail fast learn fast*
 
 - **HR Consultant — AI Integration** · Active*
-- **HR Tech Developer (Co-op)** · Ananda Development PCL · *2025–2026 · 12 months*
+- **HR Intern** · Ananda Development PCL · *2025–2026 · 12 months*
 - Builds production Learning Assessments platforms
 - Design and Build a Competitor Data Tracking Platform
 - Integrates Agentic Ai into real operational workflows 
